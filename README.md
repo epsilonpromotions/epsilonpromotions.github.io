@@ -12,5 +12,5 @@ LANChat
 * Use the 'clientChat.py' to send messages and 'clientListen.py' to see the chat logs
 
 ###Wishlist:
-[] Make it more efficent - currently 2 sockets per person
-[] Document it
+* [ ] Make it more efficent - currently 2 sockets per person
+* [ ] Document the code
